@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.apptecs.cost.calculater.CostcalculateserviceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.837 s - in com.apptecs.cost.calculater.CostcalculateserviceApplicationTests
